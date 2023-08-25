@@ -1,6 +1,6 @@
 # Vitaprint extrusion linearisation
 
-This repository contains algorithm files and documentation for extrusion linearisation using the Vitaprint platform with piston drive extruders.
+This repository contains algorithm files and documentation for extrusion linearisation using the Vitaprint platform with piston drive extruders (syringe extrusion). Additional details of set-up, use and performance have been published in the research article [Algorithmic linearization improves Syringe-based extrusion in elastic systems using Hydrogel-based materials](https://doi.org/10.1016/j.matdes.2023.111884), published in the Journal Materials & Design.
 
 We are available for discussion via [e-mail](mailto:bostjan@irnas.eu). 
 
